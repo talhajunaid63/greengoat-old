@@ -1,0 +1,94 @@
+<HTML>
+<HEAD>
+<TITLE>topnav2</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<!-- ImageReady Preload Script (topnav2.psd) -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		gghome_over = newImage("images/gghome-over.jpg");
+		ggdo_over = newImage("images/ggdo-over.jpg");
+		ggscoop_over = newImage("images/ggscoop-over.jpg");
+		ggjoin_over = newImage("images/ggjoin-over.jpg");
+		ggcontact_over = newImage("images/ggcontact-over.jpg");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</SCRIPT>
+<!-- End Preload Script -->
+</HEAD>
+<BODY BGCOLOR=#FFFFFF ONLOAD="preloadImages();">
+<!-- ImageReady Slices (topnav2.psd) -->
+<TABLE WIDTH=720 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD WIDTH=215 HEIGHT=4>
+			<IMG SRC="images/topnav_01.jpg" WIDTH=215 HEIGHT=4></TD>
+		<TD WIDTH=95 HEIGHT=4>
+			<IMG SRC="images/topnav_02.jpg" WIDTH=95 HEIGHT=4></TD>
+		<TD WIDTH=121 HEIGHT=4>
+			<IMG SRC="images/topnav_03.jpg" WIDTH=121 HEIGHT=4></TD>
+		<TD WIDTH=85 HEIGHT=4>
+			<IMG SRC="images/topnav_04.jpg" WIDTH=85 HEIGHT=4></TD>
+		<TD WIDTH=105 HEIGHT=4>
+			<IMG SRC="images/topnav_05.jpg" WIDTH=105 HEIGHT=4></TD>
+		<TD WIDTH=99 HEIGHT=4>
+			<IMG SRC="images/topnav_06.jpg" WIDTH=99 HEIGHT=4></TD>
+	</TR>
+	<TR>
+		
+    <TD WIDTH=215 HEIGHT=124 ROWSPAN=2> <a href="http://www.greengoat.org"><IMG SRC="images/gglogo.jpg" WIDTH=215 HEIGHT=124 border="0" alt="resource management strategies"></a></TD>
+		<TD WIDTH=505 HEIGHT=98 COLSPAN=5>
+			<IMG SRC="images/top_banner.jpg" WIDTH=505 HEIGHT=98></TD>
+	</TR>
+	<TR>
+		
+    <TD WIDTH=95 HEIGHT=26> <A HREF="index.html"
+				ONMOUSEOVER="changeImages('gghome', 'images/gghome-over.jpg'); return true;"
+				ONMOUSEOUT="changeImages('gghome', 'images/gghome.jpg'); return true;"> 
+      <IMG NAME="gghome" SRC="images/gghome.jpg" WIDTH=95 HEIGHT=26 BORDER=0 alt="return to the greenGoat main page ::: &gt;&gt;&gt;"></A></TD>
+		
+    <TD WIDTH=121 HEIGHT=26> <A HREF="whatwedo.html"
+				ONMOUSEOVER="changeImages('ggdo', 'images/ggdo-over.jpg'); return true;"
+				ONMOUSEOUT="changeImages('ggdo', 'images/ggdo.jpg'); return true;"> 
+      <IMG NAME="ggdo" SRC="images/ggdo.jpg" WIDTH=121 HEIGHT=26 BORDER=0 alt="greenGoat services"></A></TD>
+		
+    <TD WIDTH=85 HEIGHT=26> <A HREF="scoop.html"
+				ONMOUSEOVER="changeImages('ggscoop', 'images/ggscoop-over.jpg'); return true;"
+				ONMOUSEOUT="changeImages('ggscoop', 'images/ggscoop.jpg'); return true;"> 
+      <IMG NAME="ggscoop" SRC="images/ggscoop.jpg" WIDTH=85 HEIGHT=26 BORDER=0 alt="find out the scoop on gG"></A></TD>
+		
+    <TD WIDTH=105 HEIGHT=26> <A HREF="join.html"
+				ONMOUSEOVER="changeImages('ggjoin', 'images/ggjoin-over.jpg'); return true;"
+				ONMOUSEOUT="changeImages('ggjoin', 'images/ggjoin.jpg'); return true;"> 
+      <IMG NAME="ggjoin" SRC="images/ggjoin.jpg" WIDTH=105 HEIGHT=26 BORDER=0 alt="ways to contribute to the cause"></A></TD>
+		
+    <TD WIDTH=99 HEIGHT=26> <A HREF="contact.html"
+				ONMOUSEOVER="changeImages('ggcontact', 'images/ggcontact-over.jpg'); return true;"
+				ONMOUSEOUT="changeImages('ggcontact', 'images/ggcontact.jpg'); return true;"> 
+      <IMG NAME="ggcontact" SRC="images/ggcontact.jpg" WIDTH=99 HEIGHT=26 BORDER=0 alt="get in touch w/ greenGoat"></A></TD>
+	</TR>
+</TABLE>
+<!-- End ImageReady Slices -->
+</BODY>
+</HTML>

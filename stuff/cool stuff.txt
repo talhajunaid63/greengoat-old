@@ -1,0 +1,221 @@
+<HTML>
+<HEAD>
+<TITLE>::: greenGoat ::: resource management strategies ::: saving more than money :::</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		gghome_over = newImage("images/gghome-over.gif");
+		ggview_over = newImage("images/ggview-over.gif");
+		ggdo_over = newImage("images/ggdo-over.gif");
+		ggscoop_over = newImage("images/ggscoop-over.gif");
+		ggjoin_over = newImage("images/ggjoin-over.gif");
+		ggdonate_over = newImage("images/ggdonate-over.gif");
+		ggcontact_over = newImage("images/ggcontact-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</SCRIPT>
+
+<link rel="stylesheet" href="ggstyle.css" type="text/css">
+		<csscriptdict import>
+			<script type="text/javascript" src="file:///C:/Documents%20and%20Settings/abauman/Application%20Data/Adobe/Adobe%20GoLive/Settings/JScripts/GlobalScripts/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csactiondict>
+			<script type="text/javascript"><!--
+var preloadFlag = true;
+
+// --></script>
+		</csactiondict>
+	</HEAD>
+<BODY BGCOLOR=#FFFFFF background="images/background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a> 
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0" background="images/topbackground.gif">
+  <TR>
+    <TD> 
+      <table width=720 border=0 cellpadding=0 cellspacing=0>
+        <tr> 
+          <td width=215 height=4> <img src="images/topnav2_01.gif" width=215 height=4></td>
+          <td width=95 height=4> <img src="images/topnav2_02.gif" width=95 height=4></td>
+          <td width=121 height=4> <img src="images/topnav2_03.gif" width=121 height=4></td>
+          <td width=85 height=4> <img src="images/topnav2_04.gif" width=85 height=4></td>
+          <td width=105 height=4> <img src="images/topnav2_05.gif" width=105 height=4></td>
+          <td width=99 height=4> <img src="images/topnav2_06.gif" width=99 height=4></td>
+        </tr>
+        <tr> 
+          <td width=215 height=124 rowspan=2> <a href="http://www.greengoat.org"><img src="images/gglogo.gif" width=215 height=124 border="0" alt="resource management strategies"></a></td>
+          <td width=505 height=98 colspan=5> <img src="images/top_banner.gif" width=505 height=98></td>
+        </tr>
+<tr> 
+          <td width=95 height=26> <a href="index.html"
+				onMouseOver="changeImages('gghome', 'images/gghome-over.gif'); return true;"
+				onMouseOut="changeImages('gghome', 'images/gghome.gif'); return true;"> 
+            <img name="gghome" src="images/gghome.gif" width=95 height=26 border=0 alt="return to the greenGoat main page"></a></td>
+          
+<td width=121 height=26> <a href="whatwedo.html"
+				onMouseOver="changeImages('ggdo', 'images/ggdo-over.gif'); return true;"
+				onMouseOut="changeImages('ggdo', 'images/ggdo.gif'); return true;"> 
+            <img name="ggdo" src="images/ggdo.gif" width=121 height=26 border=0 alt="greenGoat services"></a></td>
+          
+<td width=105 height=26> <a href="stuff.html"
+				onMouseOver="changeImages('ggstuff', 'images/ggstuff-over.gif'); return true;"
+				onMouseOut="changeImages('ggstuff', 'images/ggstuff.gif'); return true;"> 
+            <img name="ggstuff" src="images/ggstuff.gif" width=105 height=26 border=0 alt="dive into the material stream"></a></td>
+          
+<td width=85 height=26> <a href="scoop.html"
+				onMouseOver="changeImages('ggscoop', 'images/ggscoop-over.gif'); return true;"
+				onMouseOut="changeImages('ggscoop', 'images/ggscoop.gif'); return true;"> 
+            <img name="ggscoop" src="images/ggscoop.gif" width=85 height=26 border=0 alt="find out the scoop on gG"></a></td>
+          
+<td width=105 height=26> <a href="join.html"
+				onMouseOver="changeImages('ggjoin', 'images/ggjoin-over.gif'); return true;"
+				onMouseOut="changeImages('ggjoin', 'images/ggjoin.gif'); return true;"> 
+            <img name="ggjoin" src="images/ggjoin.gif" width=105 height=26 border=0 alt="work for greenGoat"></a></td>
+          
+<td width=99 height=26> <a href="contact.html"
+				onMouseOver="changeImages('ggcontact', 'images/ggcontact-over.gif'); return true;"
+				onMouseOut="changeImages('ggcontact', 'images/ggcontact.gif'); return true;"> 
+            <img name="ggcontact" src="images/ggcontact.gif" width=99 height=26 border=0 alt="get in touch w/ greenGoat"></a></td>
+        
+</tr>
+      </table>
+    </TD></TR></TABLE>
+
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="223" valign="top"> 
+      <div align="left"><img src="images/spacer_tan.gif" width="215" height="30"><img src="images/quote_do2.gif" width="209" height="160"></div>
+    </td>
+    <td>
+      <table width=497 border=0 cellpadding=0 cellspacing=0>
+        <tr> 
+          <td> <img src="images/content_01.gif" width=10 height=9></td>
+          <td> <img src="images/content_02.gif" width=25 height=9></td>
+          <td> <img src="images/content_03.gif" width=347 height=9></td>
+          <td> <img src="images/content_04.gif" width=115 height=9></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td colspan=2>&nbsp;</td>
+          <td rowspan="3" valign="top"><img src="images/ggcan.gif" width="109" height="92"></td>
+        </tr>
+        <tr> 
+          <td> <img src="images/content_05.gif" width=10 height=33></td>
+          <td colspan=2><img src="images/title_ggwhat.gif" width=372 height=33></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <img src="images/spacer_white.gif" width=10 height=50></td>
+          <td valign="top"><img src="images/drop_c.gif" width="25" height="45"></td>
+          <td valign="top"> 
+            <p><img src="images/spacer_white.gif" width="300" height="3" align="top"><br>
+              <span class="header1green">ontractor Services</span><br>By working with architects, general contractors,   
+demolition companies, and waste removal contractors, greenGoat is helping the construction paradigm evolve by providing:</p>
+            <ol>
+              <li>Resource management &#151; greenGoat finds hidden value. We pass that
+		along to our clients ... it is a very simple formula that works.  Each project is 
+                different, and we have a variety of tricks to create efficiencies in any setting.</li>
+              <li>Comprehensive advice &#151; Resource management is not limited to materials.  We offer a list of experts
+		in storm water, energy, and indoor air conservation (and restoration).<br></li>
+              <li>LEED reporting &#151; it's more than a fad; it is the future.  Let greenGoat organize your
+		documentation and let you stick to the heart of the project.<br></li>
+              <li> Training Programs &#151; creating a new standard means getting the message out to all levels of the 
+                work force. Let us show your team the advantages of separating 
+                materials for reuse and tips for how to save materials during 
+                work. Many of these ideas are &quot;quick hits&quot; that 
+                will save you money and also increase work place safety.</li>
+
+            </ol>
+            <p>These service levels can stand independently or be bundled into 
+              a more comprehensive contract. We will get the ball rolling on your 
+              project with a survey designed to illustrate your potential cost 
+              savings.</p>
+            </td>
+        </tr>
+        <tr>
+          <td valign="top">&nbsp;</td>
+          <td valign="top">&nbsp;</td>
+          <td valign="top">&nbsp;</td>
+          <td valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td valign="top">&nbsp;</td>
+          <td valign="top"><img src="images/drop_l.gif" width="25" height="45"></td>
+          <td valign="top"> 
+            <p><span class="header1green"> and owner services</span><br>
+              One look at a heating bill will tell you - green building
+		is more than a fad.  We help architects, contractors, and
+		owners analyze the building process to ensure that all
+		resources are being used to their maximum advantage.</P> 
+		<P>Our view of resource management has expanded beyond
+		simple construction and demolition material recycling 
+		(still our principle focus) to include the resources of water, energy,
+		and air.  We work with experts in other firms to provide a consortium approach and a comprehensive
+		recommendation package.</P>
+		<P>What can we do for your building project? email us: thegoat [at] greengoat.org<br>
+            </p>
+          </td>
+          <td valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="258">&nbsp;<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">site design: <a href="http://www.bxos.com">BXOS</a> </font></td>
+    <td width="462">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="258"></td>
+    <td width="462"> 
+      <table width="347" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td> 
+            <p align="center"><a href="index.html">home</a> | <a href="whatwedo.html">what we do</a> <br>
+              <img src="images/navline.gif" width="347" height="13"><br>
+              <a href="scoop.html">scoop</a> | <a href="join.html">join gG</a> | 
+              <a href="contact.html">contact us</a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td><br>
+            <div align="center">
+              <p>Copyright &copy; 2006 greenGoat &#151; all rights reserved</p>
+            </div>
+          </td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+      </td>
+  </tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1096869-1";
+urchinTracker();
+</script>
+</BODY>
+</HTML>

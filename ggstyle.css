@@ -1,0 +1,18 @@
+p {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; line-height: 18px}
+a:link {  color: #336633; text-decoration: none}
+a:hover {  color: #CCCC66; text-decoration: underline}
+a:active {  color: #339933}
+a:visited {  color: #336600}
+.header1 {  font-size: 14px; font-weight: bold; color: #666666}
+.header1green { font-size: 14px; color: #336633}
+.header1smaller { font-size: 12px; font-weight: bold; color: #666666 }
+.header1greensmaller { font-size: 12px; font-weight: bold; color: #336633 }
+li {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 16px; color: #333333}
+body { scrollbar-3d-light-color:#D1D16E;
+           scrollbar-arrow-color:#336633;
+           scrollbar-base-color:#333219;
+           scrollbar-dark-shadow-color:#41B920;
+           scrollbar-face-color:#669966;
+           scrollbar-highlight-color:#99D491;
+           scrollbar-shadow-color:#336633
+}
